@@ -13,54 +13,6 @@ menubar.onclick = () =>{
     mynav.classList.toggle('active')
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // let search = document.querySelector('#serach-bar');
 // let searchbox =document.querySelector('.search-box');
 
