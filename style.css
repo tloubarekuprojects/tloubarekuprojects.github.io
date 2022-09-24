@@ -334,27 +334,6 @@ html{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  .inner-gallery {
   position: relative;
 }
@@ -370,6 +349,7 @@ html{
   width: 100%;
   background-color: aquamarine;
 }
+
 .inner-gallery i{
     position: absolute;
     font-size: 2rem;
@@ -380,43 +360,6 @@ html{
 } 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width:600px) {
     html{
         font-size: 50%;
@@ -425,9 +368,11 @@ html{
     .header .icons #menu-bars{
         display: inline-block;
     }
+
     .header{
         padding:  2rem;
     }
+
     .header .navbar{
         position: absolute;
         top: 100%;
@@ -436,6 +381,7 @@ html{
         background: var(--maincolor);
 
     }
+
     .header .navbar a{
         display: block;
         margin: 1rem;
@@ -443,11 +389,12 @@ html{
         background: white;
         border-radius: 10px;
     }
+
     .book-btn{
        width: 100%;
        margin-top: .5rem;
-    
     }
+
     .book-section{
         padding: 2rem 0;
     }
@@ -467,8 +414,7 @@ html{
     }
 
     .second-background iframe {
-        width: 25rem;
+        width: 28rem;
         height: 30rem;
-    }
-    
+    }   
 }
